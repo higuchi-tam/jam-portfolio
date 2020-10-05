@@ -8,7 +8,6 @@ const client = contentful.createClient({
 
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
-  mode: "universal",
   target: 'static',
 
   env: {
